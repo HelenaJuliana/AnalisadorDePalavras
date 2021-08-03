@@ -1,0 +1,3 @@
+Entregue os códigos nesta atividade via link no GitHub ou arquivos anexados nesta atividade.
+Para leitura do arquivo de texto, use a classe File.
+teste
